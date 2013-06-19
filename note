@@ -1,0 +1,2 @@
+//step1.\drawable-hdpi\loading_pb_drawable.xml
+//step2 布局main.xml 引用  android:progressDrawable="@drawable/loading_pb_drawable" />
